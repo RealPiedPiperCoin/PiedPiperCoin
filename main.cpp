@@ -10,6 +10,6 @@
 
 int main(int argc, const char * argv[]) {
     //
-    std::cout << "Hail Satan!\n";
+    std::cout << "Kiss My Piss!\n";
     return 0;
 }
